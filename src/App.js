@@ -13,6 +13,7 @@ function App() {
     <div className="App">
       <button className='counter-button' onClick={handleAdd}>add</button>
       {counter}
+      {counter}
       <button className='counter-button' onClick={handleSub}>sub</button>
     </div>
   );
